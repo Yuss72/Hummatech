@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tugas13R",
+            "request": "launch",
+            "mainClass": "Tugas13R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas12R",
+            "request": "launch",
+            "mainClass": "Tugas12R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas11R",
+            "request": "launch",
+            "mainClass": "Tugas11R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas10R",
+            "request": "launch",
+            "mainClass": "Tugas10R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas9R",
+            "request": "launch",
+            "mainClass": "Tugas9R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8R",
+            "request": "launch",
+            "mainClass": "Tugas8R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7R",
+            "request": "launch",
+            "mainClass": "Tugas7R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6R",
+            "request": "launch",
+            "mainClass": "Tugas6R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Latihan1P",
+            "request": "launch",
+            "mainClass": "Latihan1P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Studi_Kasus_2",
+            "request": "launch",
+            "mainClass": "Studi_Kasus_2",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Studi_Kasus_4",
+            "request": "launch",
+            "mainClass": "Studi_Kasus_4",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Test2P",
+            "request": "launch",
+            "mainClass": "Test2P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1L",
+            "request": "launch",
+            "mainClass": "Tugas1L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1P",
+            "request": "launch",
+            "mainClass": "Tugas1P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1R",
+            "request": "launch",
+            "mainClass": "Tugas1R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2L",
+            "request": "launch",
+            "mainClass": "Tugas2L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2P",
+            "request": "launch",
+            "mainClass": "Tugas2P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2R",
+            "request": "launch",
+            "mainClass": "Tugas2R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3L",
+            "request": "launch",
+            "mainClass": "Tugas3L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4L",
+            "request": "launch",
+            "mainClass": "Tugas4L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4P",
+            "request": "launch",
+            "mainClass": "Tugas4P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4R",
+            "request": "launch",
+            "mainClass": "Tugas4R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5P",
+            "request": "launch",
+            "mainClass": "Tugas5P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5R",
+            "request": "launch",
+            "mainClass": "Tugas5R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "inputScanner",
+            "request": "launch",
+            "mainClass": "inputScanner",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "tes2",
+            "request": "launch",
+            "mainClass": "tes2",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "TugasHummatech_2c6f1b22"
+        }
+    ]
+}
