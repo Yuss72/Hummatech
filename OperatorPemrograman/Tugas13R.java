@@ -2,7 +2,7 @@
  * Nama : Yusuf Usman
  * Kelas : X RPL 1
  * Tanggal : 3 - September - 2024
- * Kode program : Data Siswa
+ * Kode program : Jawaban Kuis
  * 
  * Di tugas tugas saya sebelumnya lupa untuk mengetik ini
  */

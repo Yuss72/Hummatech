@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas15R",
+            "request": "launch",
+            "mainClass": "Tugas15R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas14R",
             "request": "launch",
             "mainClass": "Tugas14R",
