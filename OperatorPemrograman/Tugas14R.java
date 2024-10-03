@@ -6,18 +6,25 @@
  * 
  * Di tugas tugas saya sebelumnya lupa untuk mengetik ini
  */
+
 import java.util.Scanner;
 
 public class Tugas14R {
     public static void main(String[] args) {
         Scanner dataSiswa = new Scanner(System.in);
 
-        int data1 = 1001;
-        int data2 = 1002;
-        int data3 = 1003;
-        int data4 = 1004;
+        int[] data = {1001, 1002, 1003, 1004};
 
         System.out.println("Silahkan masukkan NIS anda: ");
-        String dataSiswa = input.nextLine();
+        int inputUser = dataSiswa.nextInt();
+
+        boolean lulus = (inputUser == 1001) || (inputUser == 1002) || (inputUser == 1003) || (inputUser == 1004);
+
+        System.out.println("Anda " + lulus);
     }
 }
+
+/*
+ * true = lulus
+ * false = tidak lulus
+ */

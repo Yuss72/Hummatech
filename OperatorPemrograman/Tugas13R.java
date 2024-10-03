@@ -1,3 +1,12 @@
+/*
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : 3 - September - 2024
+ * Kode program : Data Siswa
+ * 
+ * Di tugas tugas saya sebelumnya lupa untuk mengetik ini
+ */
+
 import java.util.Scanner;
 
 public class Tugas13R {
@@ -12,11 +21,10 @@ public class Tugas13R {
         System.out.println("D. Operator Assignment");
         System.out.println("Masukkan jawaban (A/B/C/D): ");
 
-        String jawaban = kuis.nextLine().toUpperCase();
-        boolean B = jawaban.equals("B");
-        boolean D = jawaban.equals("D");
+        char inputJawaban = kuis.next().toUpperCase().charAt(0);
+        boolean jawabanKuis = (inputJawaban == 'B') || (inputJawaban == 'D');
 
         System.out.println("\n=== Output ===");
-        System.out.println("Jawaban anda: " + (B || D));
+        System.out.println("Jawaban anda: " + jawabanKuis);
     }
 }
