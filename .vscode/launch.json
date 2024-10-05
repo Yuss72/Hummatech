@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas9V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas9V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas8V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas7V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas6V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas6",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas5",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas4V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas3V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas2V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas1V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas16R",
+            "request": "launch",
+            "mainClass": "Tugas16R",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas15R",
             "request": "launch",
             "mainClass": "Tugas15R",
