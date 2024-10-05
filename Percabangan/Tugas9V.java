@@ -15,6 +15,7 @@ public class Tugas9V {
         int inputUser = input.nextInt();
 
         switch(inputUser) {
+            // Opsi Besar dan Kecil
             case 1:
             int inputBesarKecil1;
             int inputBesarKecil2;
@@ -40,6 +41,7 @@ public class Tugas9V {
             System.out.println("Angka Minimum: " + min);
             break;
 
+            // Opsi Ganjil dan Genap
             case 2:
             int inputGanjilGenap1;
             int inputGanjilGenap2;
