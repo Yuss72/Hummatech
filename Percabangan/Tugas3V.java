@@ -30,5 +30,6 @@ public class Tugas3V {
         } else {
             System.out.println("Tolong masukkan nilai yang valid.");
         }
+        input.close();
     }   
 }

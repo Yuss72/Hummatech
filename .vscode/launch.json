@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas5V",
+            "request": "launch",
+            "mainClass": "Percabangan.Tugas5V",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas9V",
             "request": "launch",
             "mainClass": "Percabangan.Tugas9V",

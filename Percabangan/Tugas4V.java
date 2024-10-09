@@ -39,5 +39,6 @@ public class Tugas4V {
         } else {
             System.out.println("Nama merk yang di masukkan tidak dapat dikenali.");
         }
+        input.close();
     }
 }

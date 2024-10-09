@@ -75,6 +75,8 @@ public class Tugas9V {
 
             default:
             System.out.println("\nPilihan anda tidak ada di opsi tersebut.");
+
+            input.close();
         }
     }
 }

@@ -19,9 +19,9 @@ public class Tugas2L {
 
         // Output
         System.out.println("\n==== Output ====");
-        System.out.println("Nama Sekolah: " + sekolah);
-        System.out.println("Jarak Rumah ke Sekolah: " + jarak + " km");
-        System.out.println("Kode Plat Nomor: " + kodePlat);
-        System.out.println("Anak Ke: " + anakKe);
+        System.out.println("Nama Sekolah\t\t: " + sekolah);
+        System.out.println("Jarak Rumah ke Sekolah\t: " + jarak + " km");
+        System.out.println("Kode Plat Nomor\t\t: " + kodePlat);
+        System.out.println("Anak Ke\t\t\t: " + anakKe);
     } 
 }

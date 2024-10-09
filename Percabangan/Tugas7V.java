@@ -33,5 +33,7 @@ public class Tugas7V {
         System.out.println("\n==== Output ====");
         System.out.println("Angka Maksimal: " + max);
         System.out.println("Angka Minimum: " + min);
+
+        input.close();
     }
 }

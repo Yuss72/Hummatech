@@ -9,8 +9,8 @@ public class Tugas4L {
 
         // Outpur
         System.out.println("\n==== Output ====");
-        System.out.println("Nama Lengkap: " + namaLengkap);
-        System.out.println("NIS: " + nis);
-        System.out.println("Umur: " + umur + " tahun");
+        System.out.println("Nama Lengkap\t: " + namaLengkap);
+        System.out.println("NIS\t\t: " + nis);
+        System.out.println("Umur\t\t: " + umur + " tahun");
     }
 }

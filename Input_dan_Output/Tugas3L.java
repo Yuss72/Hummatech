@@ -16,8 +16,8 @@ public class Tugas3L {
 
         //Output
         System.out.println("\n==== Output ====");
-        System.out.println("Jenis Kelamin: " + kelamin);
-        System.out.println("Nomor Sepatu: " + nomorSepatu);
-        System.out.println("Sudah Menikah: " + sudahMenikah);
+        System.out.println("Jenis Kelamin\t: " + kelamin);
+        System.out.println("Nomor Sepatu\t: " + nomorSepatu);
+        System.out.println("Sudah Menikah\t: " + sudahMenikah);
     } 
 }

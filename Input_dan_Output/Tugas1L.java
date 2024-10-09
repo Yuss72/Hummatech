@@ -21,9 +21,9 @@ public class Tugas1L {
 
         // Menampilkan output biodata
         System.out.println("\n=== Biodata Anda ===");
-        System.out.println("Nama Lengkap: " + namaLengkap);
-        System.out.println("Usia: " + usia);
-        System.out.println("Kota Asal: " + kotaAsal);
-        System.out.println("Tinggi Badan: " + tinggiBadan);
+        System.out.println("Nama Lengkap\t: " + namaLengkap);
+        System.out.println("Usia\t\t: " + usia);
+        System.out.println("Kota Asal\t: " + kotaAsal);
+        System.out.println("Tinggi Badan\t: " + tinggiBadan);
     }
 }

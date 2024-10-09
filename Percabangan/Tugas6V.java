@@ -39,6 +39,7 @@ public class Tugas6V {
             default:
             System.out.println("Nomor plat yang anda masukkan tidak ada atau ada di luar JaTim.");
         }
+        input.close();
     }   
 }
 

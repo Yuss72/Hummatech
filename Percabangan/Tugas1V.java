@@ -20,5 +20,6 @@ public class Tugas1V {
         if (belanja >= 500000) {
             System.out.println("Selamat Anda mendapatkan hadiah gantungan kunci");
         }
+        input.close();
     }
 }

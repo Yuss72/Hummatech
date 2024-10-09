@@ -19,25 +19,25 @@ public class Tugas5V {
 
         switch(angka) {
             case 1:
-            System.out.println("Senin");
+            System.out.println("Minggu");
             break;
             case 2:
-            System.out.println("Selasa");
+            System.out.println("Senin");
             break;
             case 3:
-            System.out.println("Rabu");
+            System.out.println("Selasa");
             break;
             case 4:
-            System.out.println("Kamis");
+            System.out.println("Rabu");
             break;
             case 5:
-            System.out.println("Jum'at");
+            System.out.println("Kamis");
             break;
             case 6:
-            System.out.println("Sabtu");
+            System.out.println("Jum'at");
             break;
             case 7:
-            System.out.println("Minggu");
+            System.out.println("Sabtu");
             break;
             default:
             System.out.println("Nomor yang dimasukkan tidak valid.");

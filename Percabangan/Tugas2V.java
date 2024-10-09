@@ -22,5 +22,6 @@ public class Tugas2V {
         } else {
             System.out.println("Belanja anda kurang dari Rp. 500.000. Silahkan tambah lagi belanjanya senilai Rp. " + (500000 - belanja) + (". Agar mendapatkan bonus gantungan kunci"));
         }
+        input.close();
     }
 }

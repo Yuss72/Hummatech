@@ -32,5 +32,7 @@ public class Tugas8V {
         } else {
             System.out.println(inputAngka2 + " adalah bilangan ganjil");
         }
+
+        input.close();
     }
 }
