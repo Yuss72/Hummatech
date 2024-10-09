@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : 5 - Oktober - 2024
+ * Kode program : Menggabungan Tugas 7 dan Tugas 8
+ */
+
 package Percabangan;
 
 import java.util.Scanner;
