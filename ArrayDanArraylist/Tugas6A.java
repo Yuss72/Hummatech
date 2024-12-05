@@ -11,17 +11,15 @@ public class Tugas6A {
     public static void main(String[] args) throws IOException {
         BufferedReader input = new BufferedReader (new InputStreamReader(System.in));
 
-        System.out.print("Masukkan Jumlah Angka: ");
+        System.out.print("Masukkan Jumlah Angka Yang Akan Dimasukkan: ");
         int jA = Integer.parseInt(input.readLine());
 
         int[] angka = new int[jA];
-        int total = 0;
         
-        System.out.println("Silahlan Masukkan " + angka.length + " Angka:");
+        System.out.println("\nSilahlan Masukkan " + angka.length + " Angka:");
         for (int u = 0; u < jA; u++) {
             System.out.print("Angka ke-" + (u + 1) + ": ");
             angka[u] = Integer.parseInt(input.readLine());
-            total += angka[u];
         }
 
         int terbesar = angka[0];
