@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
+
 import java.util.Scanner;
 
 public class Tugas1R {

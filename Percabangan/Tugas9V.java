@@ -12,13 +12,12 @@ import java.util.Scanner;
 public class Tugas9V {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         System.out.println("""
                 Pilihan menu:
                 1. Penentuan angka terbesar.
                 2. Penentuan angka ganjil dan genap
                 """);
-        System.out.println("Masukkan pilihan anda: ");
+        System.out.println("Masukkan pilihan anda\t: ");
         int inputUser = input.nextInt();
 
         switch(inputUser) {
@@ -30,9 +29,9 @@ public class Tugas9V {
             int min;
     
             System.out.println("\n=== Penentuan angka terbesar ===");
-            System.out.println("Masukkan nomor pertama: ");
+            System.out.print("Masukkan nomor pertama\t: ");
             inputBesarKecil1 = input.nextInt();
-            System.out.println("Masukkan nomor kedua: ");
+            System.out.print("Masukkan nomor kedua\t: ");
             inputBesarKecil2 = input.nextInt();
     
             if (inputBesarKecil1 > inputBesarKecil2) {
@@ -44,8 +43,8 @@ public class Tugas9V {
             }
     
             System.out.println("\n==== Output ====");
-            System.out.println("Angka Maksimum: " + max);
-            System.out.println("Angka Minimum: " + min);
+            System.out.println("Angka Maksimum\t: " + max);
+            System.out.println("Angka Minimum\t: " + min);
             break;
 
             // Opsi Ganjil dan Genap
@@ -54,9 +53,9 @@ public class Tugas9V {
             int inputGanjilGenap2;
     
             System.out.println("\n=== Penentuan angka ganjil dan genap ===");
-            System.out.println("Masukkan nomor pertama: ");
+            System.out.println("Masukkan nomor pertama\t: ");
             inputGanjilGenap1 = input.nextInt();
-            System.out.println("Masukkan nomor kedua: ");
+            System.out.println("Masukkan nomor kedua\t: ");
             inputGanjilGenap2 = input.nextInt();
     
             System.out.println("\n==== Output ====");

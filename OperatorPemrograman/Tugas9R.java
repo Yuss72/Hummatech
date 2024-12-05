@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
+
 public class Tugas9R {
     public static void main(String[] args) {
         boolean a = true; 

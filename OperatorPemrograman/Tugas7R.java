@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
+
 public class Tugas7R {
     public static void main(String[] args) {
         boolean hasilPerbandingan;
@@ -25,3 +32,5 @@ public class Tugas7R {
         System.out.println("a <= b ? " + hasilPerbandingan);
     }
 }
+
+    

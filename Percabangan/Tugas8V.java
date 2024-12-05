@@ -15,9 +15,9 @@ public class Tugas8V {
         int inputAngka1;
         int inputAngka2;
 
-        System.out.println("Masukkan nomor pertama: ");
+        System.out.println("Masukkan nomor pertama\t: ");
         inputAngka1 = input.nextInt();
-        System.out.println("Masukkan nomor kedua: ");
+        System.out.println("Masukkan nomor kedua\t: ");
         inputAngka2 = input.nextInt();
 
         System.out.println("\n==== Output ====");

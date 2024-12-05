@@ -1,5 +1,11 @@
-import java.io.*;
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
 
+import java.io.*;
 public class Tugas2R {
     public static void main(String[] args) throws IOException{
         BufferedReader hitung = new BufferedReader(new InputStreamReader(System.in));

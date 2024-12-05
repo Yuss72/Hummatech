@@ -17,9 +17,9 @@ public class Tugas7V {
         int max;
         int min;
 
-        System.out.println("Masukkan nomor pertama: ");
+        System.out.println("Masukkan nomor pertama\t: ");
         inputAngka1 = input.nextInt();
-        System.out.println("Masukkan nomor kedua: ");
+        System.out.println("Masukkan nomor kedua\t: ");
         inputAngka2 = input.nextInt();
 
         if (inputAngka1 > inputAngka2) {

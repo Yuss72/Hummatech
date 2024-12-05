@@ -10,14 +10,14 @@ public class Tugas1P {
         boolean SudahkahMenikah = false;
         boolean ApakahWNI = true;
 
-        System.out.println("Nama anda adalah: " + NamaLengkap);
-        System.out.println("Panggilan anda adalah: " + NamaPanggilan);
-        System.out.println("Umur anda adalah: " + Umur);
-        System.out.println("Tinggi badan anda adalah: " + TinggiBadan);
-        System.out.println("Kota kelahiran anda: " + KotaKelahiran);
-        System.out.println("Berat badan anda adalah: " + BeratBadan);
-        System.out.println("Jenis kelamin: " + JenisKelamin);
-        System.out.println("Apakah sudah menikah:" + SudahkahMenikah);
-        System.out.println("Apakah WNI: " + ApakahWNI);
+        System.out.println("Nama anda adalah\t\t: " + NamaLengkap);
+        System.out.println("Panggilan anda adalah\t\t: " + NamaPanggilan);
+        System.out.println("Umur anda adalah\t\t: " + Umur + " Tahun");
+        System.out.println("Tinggi badan anda adalah\t: " + TinggiBadan + " cm");
+        System.out.println("Kota kelahiran anda\t\t: " + KotaKelahiran);
+        System.out.println("Berat badan anda adalah\t\t: " + BeratBadan + " kg");
+        System.out.println("Jenis kelamin\t\t\t: " + JenisKelamin);
+        System.out.println("Apakah sudah menikah\t\t: " + SudahkahMenikah);
+        System.out.println("Apakah WNI\t\t\t: " + ApakahWNI);
     }
 }

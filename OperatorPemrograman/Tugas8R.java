@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
+
 public class Tugas8R {
     public static void main(String[] args) {
         char F = 'F';

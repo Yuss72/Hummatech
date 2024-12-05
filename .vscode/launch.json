@@ -6,6 +6,286 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas6A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas6A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas5A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas4A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas3A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "SimulasiUjianInputOutput",
+            "request": "launch",
+            "mainClass": "Tantangan.SimulasiUjianInputOutput",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "SimulasiUjianInputOutput",
+            "request": "launch",
+            "mainClass": "SimulasiUjianInputOutput",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "InputNamaSiswa",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.InputNamaSiswa",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2A",
+            "request": "launch",
+            "mainClass": "Tugas2A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.test",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas2A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1A",
+            "request": "launch",
+            "mainClass": "ArrayDanArraylist.Tugas1A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas14L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas14L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas13L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas13L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas12L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas12L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas11L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas11L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas10L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas10L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas8L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7Lanjutan",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas7Lanjutan",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas7L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas6L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas5L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas4L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas3L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas2L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1L",
+            "request": "launch",
+            "mainClass": "PerulanganLanjutan.Tugas1L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas13O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas13O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas12O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas12O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan",
+            "request": "launch",
+            "mainClass": "Percobaan",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas11O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas11O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas10O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas10O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas9O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas9O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas8O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas7O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas6O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas5O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas4O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas3O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "belajar2L",
+            "request": "launch",
+            "mainClass": "belajar2L",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas2O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1O",
+            "request": "launch",
+            "mainClass": "Perulangan.Tugas1O",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas5V",
             "request": "launch",
             "mainClass": "Percabangan.Tugas5V",

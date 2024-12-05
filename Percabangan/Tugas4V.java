@@ -15,9 +15,9 @@ public class Tugas4V {
         String merk;
         int ukuran;
 
-        System.out.println("Masukkan merk produk (ABC / DEF): ");
+        System.out.println("Masukkan merk produk (ABC / DEF)\t: ");
         merk = input.nextLine().toUpperCase();
-        System.out.println("Masukkan ukuran baju (30 - 34): ");
+        System.out.println("Masukkan ukuran baju (30 - 34)\t: ");
         ukuran = input.nextInt();
 
         if (merk.equals("ABC")) {

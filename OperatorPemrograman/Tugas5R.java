@@ -1,3 +1,10 @@
+/* 
+ * Nama : Yusuf Usman
+ * Kelas : X RPL 1
+ * Tanggal : ?
+ * Kode program : Operator Pemrograman
+ */
+
 import javax.swing.JOptionPane;
 
 public class Tugas5R {
@@ -15,9 +22,8 @@ public class Tugas5R {
 
         // Output
         System.out.println("\n=== Output ===");
-        System.out.println("Sirup: " + (sirup + sirupBaru));
-        System.out.println("Deterjen: " + (deterjen + deterjenBaru));
-        System.out.println("Mie Instan: " + (mieInstan + mieInstanBaru));
-        
+        System.out.println("Sirup\t\t: " + (sirup + sirupBaru));
+        System.out.println("Deterjen\t: " + (deterjen + deterjenBaru));
+        System.out.println("Mie Instan\t: " + (mieInstan + mieInstanBaru));
     }    
 }
