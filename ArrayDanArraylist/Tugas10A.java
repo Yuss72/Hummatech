@@ -8,6 +8,7 @@
  package ArrayDanArraylist;
 public class Tugas10A {
     public static void main(String[] args) {
+        // Data
         String nama[] = {"Kenzo Ismail", "Desmon Dana", "Kayla Isabela", "Khansa Zakira"};
         int[][] nilai = {
             {81, 90, 62},
@@ -21,6 +22,7 @@ public class Tugas10A {
         int total = 0;
         int rata2 = 0;
 
+        // Menampilkan Data Dan Tempat Proses Menghitung
         System.out.print("No.\tNama\t\tNilai1\t\tNilai2\t\tNilai3\t\t\n");
         for (int b = 0; b < nilai.length; b++) {
             System.out.print((no + 1) + "\t" + nama[b] + "\t");
@@ -36,6 +38,7 @@ public class Tugas10A {
             no++;
         }
 
+        // Menampilkan Rata Rata
         System.out.println("\nNilai Rata-Rata Masing Masing Siswa Adalah: ");
         for (int u = 0; u < rata.length; u++) {
             System.out.println("Nilai Rata Rata " + nama[u] + " Adalah: " + rata[u]);
