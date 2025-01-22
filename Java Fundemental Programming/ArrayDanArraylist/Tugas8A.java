@@ -5,8 +5,6 @@
 * Kode program : Array
 */
 
-package ArrayDanArraylist;
-
 public class Tugas8A {
     public static void main (String[] args) {
         String data[][] = {

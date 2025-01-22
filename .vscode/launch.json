@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas6A",
+            "request": "launch",
+            "mainClass": "Tugas6A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1A",
+            "request": "launch",
+            "mainClass": "Tugas1A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas10A",
+            "request": "launch",
+            "mainClass": "Tugas10A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas12A",
+            "request": "launch",
+            "mainClass": "Tugas12A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas11A",
+            "request": "launch",
+            "mainClass": "Tugas11A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas11A",
             "request": "launch",
             "mainClass": "ArrayDanArraylist.Tugas11A",

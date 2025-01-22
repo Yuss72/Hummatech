@@ -5,7 +5,6 @@
  * Kode program : Array
  */
 
-package ArrayDanArraylist;
 import javax.swing.JOptionPane;
 public class Tugas2A {
     public static void main(String[] args) {

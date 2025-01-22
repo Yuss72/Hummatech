@@ -5,7 +5,6 @@
  * Kode program : Array
  */
 
-package ArrayDanArraylist;
 
 public class Tugas7A {
     public static void main(String[] args) {

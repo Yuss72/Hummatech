@@ -5,7 +5,6 @@
  * Kode program : Array
  */
 
- package ArrayDanArraylist;
 public class Tugas10A {
     public static void main(String[] args) {
         // Data
@@ -20,7 +19,7 @@ public class Tugas10A {
 
         int no = 0;
         int total = 0;
-        int rata2 = 0;
+        int rata2;
 
         // Menampilkan Data Dan Tempat Proses Menghitung
         System.out.print("No.\tNama\t\tNilai1\t\tNilai2\t\tNilai3\t\t\n");

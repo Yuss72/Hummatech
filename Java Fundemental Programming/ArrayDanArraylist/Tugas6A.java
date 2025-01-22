@@ -5,7 +5,6 @@
  * Kode program : Array
  */
 
-package ArrayDanArraylist;
 import java.io.*;
 public class Tugas6A {
     public static void main(String[] args) throws IOException {
