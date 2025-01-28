@@ -18,7 +18,7 @@ public class Tugas11A {
 
         for (int u = 0; u < nama.length; u++) {
             System.out.print("Siswa ke-" + (u + 1) + ": ");
-            String nama2 = input.readLine();
+            String   = input.readLine();
             nama[u] = nama2;
         }
         System.out.println();

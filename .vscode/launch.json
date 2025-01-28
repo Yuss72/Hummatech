@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas13S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas13S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas12S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas12S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas11S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas11S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas10S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas10S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas9S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas9S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas8S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas7S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas6S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas6S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas5S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas4S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas3S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas2S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas1S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas18A",
+            "request": "launch",
+            "mainClass": "Tugas18A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas8A",
+            "request": "launch",
+            "mainClass": "Tugas8A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas17A",
+            "request": "launch",
+            "mainClass": "Tugas17A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas15A",
+            "request": "launch",
+            "mainClass": "Tugas15A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas14A",
+            "request": "launch",
+            "mainClass": "Tugas14A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas13A",
+            "request": "launch",
+            "mainClass": "Tugas13A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas7A",
+            "request": "launch",
+            "mainClass": "Tugas7A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas9A",
+            "request": "launch",
+            "mainClass": "Tugas9A",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas6A",
             "request": "launch",
             "mainClass": "Tugas6A",
