@@ -8,7 +8,6 @@ public class Tugas12S {
         String[] kata = kalimat.split(" ");
 
         for (int u = 0; u < kata.length; u++) {
-            
             total += kata[u].length();
         }
 

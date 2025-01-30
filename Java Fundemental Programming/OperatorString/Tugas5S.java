@@ -14,14 +14,14 @@ public class Tugas5S {
         ArrayList<String> data = new ArrayList<>();
 
         System.out.println("\n=== Input Data ===");
-        for (int u = 0; u < 5; u++) {
+        for (int u = 0; u < iJData; u++) {
             System.out.print("Data ke-" + (u + 1) + ": ");
             String iData = input.nextLine();
             data.add(iData);
         } 
 
         System.out.println("\n=== Output Data ===");
-        for (int u = 0; u < 5; u++) {
+        for (int u = 0; u < iJData; u++) {
             System.out.print("Data ke-" + (u + 1) + ": ");
 
             if ((data.get(u)).length() > 0) {

@@ -8,7 +8,11 @@ public class Tugas13S {
         ArrayList<Character> karakter = new ArrayList<>();
 
         for (int u = 0; u < kalimat.length(); u++) {
-            System.out.print(kalimat.charAt(kalimat.length() - (u + 1)));
+            karakter.add(kalimat.charAt(kalimat.length() - (u + 1)));
+        }
+
+        for (int u = 0; u < kalimat.length(); u++) {
+            System.out.print(karakter.get(u));
         } 
     }
 }

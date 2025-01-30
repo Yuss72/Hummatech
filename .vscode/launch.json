@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas3P",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas3P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3S",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas3S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "PenilaianUjianOOP",
+            "request": "launch",
+            "mainClass": "KonsepOOP.PenilaianUjianOOP",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2P",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas2P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1P",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas1P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas17S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas17S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas16S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas16S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas15S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas15S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas14S",
+            "request": "launch",
+            "mainClass": "OperatorString.Tugas14S",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas13S",
             "request": "launch",
             "mainClass": "OperatorString.Tugas13S",
