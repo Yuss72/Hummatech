@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas6",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas6",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas5P",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas5P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
+            "name": "Tugas4P",
+            "request": "launch",
+            "mainClass": "KonsepOOP.Tugas4P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas3P",
             "request": "launch",
             "mainClass": "KonsepOOP.Tugas3P",
