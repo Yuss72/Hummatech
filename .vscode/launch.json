@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas9P",
+            "request": "launch",
+            "mainClass": "Tugas9P",
+            "projectName": "TugasHummatech_2c6f1b22"
+        },
+        {
+            "type": "java",
             "name": "Tugas6",
             "request": "launch",
             "mainClass": "KonsepOOP.Tugas6",

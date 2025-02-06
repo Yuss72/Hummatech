@@ -68,7 +68,7 @@ class Tabung extends BangunRuang {
     private double r;
     private double tinggi;
     private final double pi = 3.14;
-    -
+    
     public void setR(double r) {
         this.r = r;
     }
@@ -100,7 +100,7 @@ class Kerucut extends BangunRuang {
         }
 
     public void setRadius(double radius) { 
-        this.radius = r; 
+        this.r = r; 
         }
     
     public double getTinggi() { return tinggi; }
@@ -108,7 +108,6 @@ class Kerucut extends BangunRuang {
         this.tinggi = tinggi; 
         }
 
-    @Override
     public double hitungVolume() {
         return (1.0/3) * Math.PI * Math.pow(r, 2) * tinggi;
     }
@@ -151,7 +150,7 @@ public class Tugas7P {
                 case 3:
                     Tabung tabung = new Tabung();
                     System.out.print("Masukkan radius: ");
-                    tabung.setRadius(scanner.nextDouble());
+                    tabung.setR(scanner.nextDouble());
                     System.out.print("Masukkan tinggi: ");
                     tabung.setTinggi(scanner.nextDouble());
                     System.out.println("Volume Tabung: " + tabung.hitungVolume());
