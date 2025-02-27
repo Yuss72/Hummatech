@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pemesanan</title>
+    <style>
+        body {
+            background-color: rgb(173, 75, 43);
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            margin: auto;
+            width: 22%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Formulir Pemesanan</h1>
+    <form>
+        <fieldset>
+        <table>
+            <tr>
+                <td><label for="nama">Nama</label></td>
+                <td>:</td>
+                <td><input type="text" id="nama" name="nama" required placeholder="Masukkan Nama"></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td>:</td>
+                <td><input type="email" id="email" name="email" required placeholder="Masukkan Email"></td>
+            </tr>
+            <tr>
+                <td><label for="kue">Pilih Kue</label></td>
+                <td>:</td>
+                <td>
+                    <select id="kue" name="kue">
+                        <option value="" selected disabled>== Pilih Kue ==</option>
+                        <option value="choco-bliss">Choco Bliss Cake</option>
+                        <option value="mocha">Mocha Cake</option>
+                        <option value="black-forest">Black Forest Cake</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <input type="submit">
+                    <input type="reset">
+                </td>
+            </tr>
+        </table>
+        </fieldset>
+    </form>
+</body>
+</html>

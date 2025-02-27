@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas12P",
+            "request": "launch",
+            "mainClass": "Tugas12P",
+            "projectName": "TugasHummatech_b5db5737"
+        },
+        {
+            "type": "java",
             "name": "Tugas9P",
             "request": "launch",
             "mainClass": "Tugas9P",
