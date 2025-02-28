@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+}
+.paragraf {
+    text-align: justify;
+}
+#gambar-dalam-p {
+    float: right;
+    padding-left: 30px;
+    width: 320px;
+}

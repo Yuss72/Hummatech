@@ -1,0 +1,20 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    text-align: justify;
+}
+.gambar-main {
+    float: right;
+    width: 400px;
+    padding-left: 20px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
