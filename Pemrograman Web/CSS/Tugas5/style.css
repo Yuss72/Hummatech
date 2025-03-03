@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.sub-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+#merah {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+#biru {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+#hijau {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}

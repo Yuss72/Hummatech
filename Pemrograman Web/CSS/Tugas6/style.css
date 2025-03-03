@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgb(181, 181, 181);
+}
+.sub-container {
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: nowrap;
+}
+#home {
+    background-color: green;
+    border: green;
+    color: white;
+    width: 120px;
+    height: 60px;
+    font-size: larger;
+    cursor: pointer;
+}
+#artikel {
+    background-color: greenyellow;
+    border: greenyellow;
+    color: white;
+    width: 120px;
+    height: 60px;
+    font-size: larger;
+    cursor: pointer;
+}
+#logout {
+    background-color: red;
+    border: red;
+    color: white;
+    width: 120px;
+    height: 60px;
+    font-size: larger;
+    cursor: pointer;
+}
