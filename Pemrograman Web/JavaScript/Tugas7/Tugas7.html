@@ -6,6 +6,7 @@
     <title>Tugas 7</title>
     <link rel="stylesheet" href="style.css">
 </head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="script.js"></script>
 <body>
     <form id="form-input" action="">
@@ -17,7 +18,7 @@
             </div>
             <div class="isi">
                 <p class="label">Isi</p>
-                <input class="input-user" id="input-teks" type="text" required placeholder="Masukan Isi-Teks">
+                <textarea class="input-user" id="input-text" type="" required placeholder="Masukan Isi-Teks"></textarea>
             </div>
             <input class="kirim" type="submit" value="Kirim">
         </fieldset>
@@ -25,8 +26,7 @@
     <form id="form-output" action="">
         <fieldset>
             <h2>Output:</h2>
-            <h2 id="output-judul">Tugas 7</h2>
-            <p id="output-teks">Buatlah sebuah form yang dapat mengirim sebuah post baru dengan menggunakan AJAX. Buatlah tampilan seperti di bawah ini!</p>
+            <div id="output"></div>
         </fieldset>
     </form>
 </body>
