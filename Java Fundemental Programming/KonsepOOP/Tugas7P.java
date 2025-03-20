@@ -108,7 +108,7 @@ class Kerucut extends BangunRuang {
         this.tinggi = tinggi; 
         }
 
-    public double hitungVolume() {
+    public double volume() {
         return (1.0/3) * Math.PI * Math.pow(r, 2) * tinggi;
     }
 }
@@ -137,14 +137,14 @@ public class Tugas7P {
                     balok.setLebar(scanner.nextDouble());
                     System.out.print("Masukkan tinggi: ");
                     balok.setTinggi(scanner.nextDouble());
-                    System.out.println("Volume Balok: " + balok.hitungVolume());
+                    System.out.println("Volume Balok: " + balok.volume());
                     break;
                     
                 case 2:
                     Kubus kubus = new Kubus();
                     System.out.print("Masukkan sisi: ");
                     kubus.setSisi(scanner.nextDouble());
-                    System.out.println("Volume Kubus: " + kubus.hitungVolume());
+                    System.out.println("Volume Kubus: " + kubus.volume());
                     break;
                     
                 case 3:
@@ -153,7 +153,7 @@ public class Tugas7P {
                     tabung.setR(scanner.nextDouble());
                     System.out.print("Masukkan tinggi: ");
                     tabung.setTinggi(scanner.nextDouble());
-                    System.out.println("Volume Tabung: " + tabung.hitungVolume());
+                    System.out.println("Volume Tabung: " + tabung.volume());
                     break;
                     
                 case 4:
@@ -162,7 +162,7 @@ public class Tugas7P {
                     kerucut.setRadius(scanner.nextDouble());
                     System.out.print("Masukkan tinggi: ");
                     kerucut.setTinggi(scanner.nextDouble());
-                    System.out.println("Volume Kerucut: " + kerucut.hitungVolume());
+                    System.out.println("Volume Kerucut: " + kerucut.volume());
                     break;
                     
                 case 5:

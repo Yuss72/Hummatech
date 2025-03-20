@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas9P",
+            "request": "launch",
+            "mainClass": "Tugas9P",
+            "projectName": "TugasHummatech_b5db5737"
+        },
+        {
+            "type": "java",
+            "name": "kodenyaRomi",
+            "request": "launch",
+            "mainClass": "kodenyaRomi",
+            "projectName": "TugasHummatech_b5db5737"
+        },
+        {
+            "type": "java",
+            "name": "latihangabut",
+            "request": "launch",
+            "mainClass": "latihangabut",
+            "projectName": "TugasHummatech_b5db5737"
+        },
+        {
+            "type": "java",
             "name": "Tugas12P",
             "request": "launch",
             "mainClass": "Tugas12P",

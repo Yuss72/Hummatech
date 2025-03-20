@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 6</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="content"></div>
+</body>
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                type: "get",
+                url: "https://jsonplaceholder.typicode.com/photos?_limit=10",
+                success: function(response) {
+                    console.log(response);
+                    let temp = "";
+                    for (let i = 0; i < response.length; i++) {
+                        temp += `<div><img src="${response[i].url}" alt="${response[i].title}"></div>`;
+                    }
+                    $("#content").html(temp);
+                }
+            })
+        })
+    </script>
+</html>

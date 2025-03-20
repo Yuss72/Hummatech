@@ -1,4 +1,4 @@
-package Tugas12;
+package Algoritma;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Tugas12;
+package Algoritma;
 
 public class Tugas5Algoritma {
     public static void selectionSortRightToLeft(int[] arr) {
