@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="bg-dark bg-opacity-50 text-white m-0 py-0.5 px-1">
+            <p class="text-dark text-opacity-65 text-center py-0.5 px-1 m-0">Yusuf Usman / X RPL 1 / 39</p>
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-3 m-0">
+        <div class="container-fluid">
+            <a class="navbar-brand fs-4" href="javascript:void(0)">Rumah Sakit</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link me-2" href="home.html">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle me-2" href="javascript:void(0)" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">Pages</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-item" href="home.html">Tentang Kami</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="home.html">Preview Ruangan</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="home.html">Informasi Rumah Sakit</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-2" href="javascript:void(0)">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-2" href="#footer">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active me-2" href="pendaftaran.html">Register</a>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="text" placeholder="Search">
+                    <button class="btn btn-dark" type="button">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container my-5">
+            <div class="text-center mb-5">
+                <h2>Formulir Pendaftaran Pasien</h2>
+                <p class="text-muted">Isi data diri Anda untuk melakukan pendaftaran online.</p>
+            </div>
+
+            <form class="row g-3">
+                <div class="col-md-6">
+                    <label for="namaLengkap" class="form-label">Nama Lengkap</label>
+                    <input type="text" class="form-control" id="namaLengkap" placeholder="Masukkan nama Anda" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="tanggalLahir" class="form-label">Tanggal Lahir</label>
+                    <input type="date" class="form-control" id="tanggalLahir" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="jenisKelamin" class="form-label">Jenis Kelamin</label>
+                    <select id="jenisKelamin" class="form-select" required>
+                        <option selected disabled>Pilih...</option>
+                        <option>Laki-laki</option>
+                        <option>Perempuan</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="noTelepon" class="form-label">No. Telepon</label>
+                    <input type="tel" class="form-control" id="noTelepon" placeholder="08xxxxxxxxxx" required>
+                </div>
+                <div class="col-12">
+                    <label for="alamat" class="form-label">Alamat Lengkap</label>
+                    <textarea class="form-control" id="alamat" rows="3" placeholder="Masukkan alamat Anda"
+                        required></textarea>
+                </div>
+                <div class="col-12">
+                    <label for="poliTujuan" class="form-label">Poli Tujuan</label>
+                    <select id="poliTujuan" class="form-select" required>
+                        <option selected disabled>Pilih poli...</option>
+                        <option>Umum</option>
+                        <option>Anak</option>
+                        <option>Gigi</option>
+                        <option>Spesialis Jantung</option>
+                    </select>
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Daftar Sekarang</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer id="footer" class="bg-dark text-white mt-5">
+        <div class="container py-4">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>Rumah Sakit</h5>
+                    <p>Kami berkomitmen memberikan pelayanan kesehatan terbaik dengan tenaga profesional dan fasilitas
+                        modern.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Kontak</h5>
+                    <ul class="list-unstyled">
+                        <li>Jl. Kesehatan No. 123, Jakarta</li>
+                        <li>Email: info@rumahsakit.com</li>
+                        <li>Telp: (021) 123-4567</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Tautan Cepat</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="home.html" class="text-white text-decoration-none">Home</a></li>
+                        <li><a href="#" class="text-white text-decoration-none">Layanan</a></li>
+                        <li><a href="#footer" class="text-white text-decoration-none">Kontak</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="border-light">
+            <p class="text-center mb-0">© 2025 Rumah Sakit. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+
+</html>

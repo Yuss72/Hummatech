@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            grid-template-columns: repeat(3, 100px);
+            grid-template-rows: repeat(2, 100px);
+            gap: 12px;
+            display: grid;
+            grid-template-areas: 
+            "box-1 box-2 box-3"
+            "box-1 box-4 box-5";
+        }
+
+        .box {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .box-1{background-color: #f70d0d; grid-area: box-1;}
+        .box-2{background-color: #ff08c9; grid-area: box-2;}
+        .box-3{background-color: #5a3fb9; grid-area: box-3;}
+        .box-4{background-color: #081dd6; grid-area: box-4;}
+        .box-5{background-color: #ad6b08; grid-area: box-5;}
+
+        @media (max-width: 400px) {
+            .container {
+            grid-template-columns: repeat(3, 100px);
+            grid-template-rows: repeat(3, 100px);
+            grid-template-areas:
+                "box-1 box-1 box-2"
+                "box-1 box-1 box-3"
+                "box-5 box-4 box-4";
+            }
+            
+        } 
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box box-1"></div>
+        <div class="box box-2"></div>
+        <div class="box box-3"></div>
+        <div class="box box-4"></div>
+        <div class="box box-5"></div>
+    </div>
+</body>
+</html>

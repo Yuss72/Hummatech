@@ -24,5 +24,6 @@ $(document).ready(function() {
                 $("#input-text").val("");
             }
         })
+        $("#output").html("");
     })   
 })
