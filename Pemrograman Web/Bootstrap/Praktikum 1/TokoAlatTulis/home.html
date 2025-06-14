@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Toko Alat Tulis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="bg-primary text-white text-center py-4 mb-4">
+        <h1>Toko Alat Tulis</h1>
+        <p>Segala Kebutuhan Alat Tulis Anda</p>
+    </header>
+
+    <div class="container">
+
+        <!-- Formulir Tambah Produk -->
+        <h2 class="mb-3">Tambah Produk</h2>
+        <form class="row g-3 mb-5">
+            <div class="col-md-6">
+                <label for="namaProduk" class="form-label">Nama Produk</label>
+                <input type="text" class="form-control" id="namaProduk" placeholder="Contoh: Pensil 2B">
+            </div>
+            <div class="col-md-3">
+                <label for="harga" class="form-label">Harga</label>
+                <input type="number" class="form-control" id="harga" placeholder="Contoh: 5000">
+            </div>
+            <div class="col-md-3">
+                <label for="stok" class="form-label">Stok</label>
+                <input type="number" class="form-control" id="stok" placeholder="Contoh: 100">
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-success">Tambah Produk</button>
+            </div>
+        </form>
+
+        <!-- Tabel Daftar Produk -->
+        <h2 class="mb-3">Daftar Produk</h2>
+        <table class="table table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Nama Produk</th>
+                    <th>Harga</th>
+                    <th>Stok</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Pensil 2B</td>
+                    <td>Rp 5.000</td>
+                    <td>120</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Penghapus</td>
+                    <td>Rp 3.000</td>
+                    <td>75</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Spidol Warna</td>
+                    <td>Rp 15.000</td>
+                    <td>40</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white text-center py-3 mt-5">
+        <p class="mb-0">&copy; 2025 Toko Alat Tulis. Hak cipta dilindungi.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
