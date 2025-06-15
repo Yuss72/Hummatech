@@ -6,7 +6,7 @@
 }
 @media screen and (max-width: 768px) {
     .carousel-image {
-        height: 250px;
+        height: 50vh;
     }
 }
 .banner-text {
